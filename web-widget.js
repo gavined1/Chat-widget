@@ -296,8 +296,8 @@
             welcomeText: '',
             responseTimeText: '',
             poweredBy: {
-                text: 'Powered by Gavin',
-                link: ''
+                text: 'Powered by GPLAY9151',
+                link: 'https://t.me/Gplay9151'
             }
         },
         style: {
